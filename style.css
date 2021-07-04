@@ -1,0 +1,58 @@
+.bg-primary{
+ 	background: #FDFEFE!important;
+ 	height:90px;
+ }
+.sidebar{
+	width:8%;	
+	height: 100%;
+	position: fixed;
+	background:#FDFEFE;
+	padding-top: 0px;	
+}
+.sidebar a{
+	display: block;
+	width: 100%;
+	padding: 10px 25px;
+	text-decoration: none;
+	color: black;
+	
+}
+.sidebar a:hover{
+	background: #8080ff;
+	text-decoration:none;
+}
+ .content{
+	margin-left:8%;
+	height:535px;
+	background:#ECF0F1;
+	padding: 50px 50px;
+}
+.top-div{
+	width:25px;
+	height:25px;
+}
+.size{
+	font-size: 10px;
+}
+.t_bullet{
+	font-size:25px;
+}
+.url{
+	text-align:center;
+	width: 80%;
+}
+.searchbox{
+	width: 80%;
+}
+.uploade{
+	margin-left:90px;
+	width: 150px;
+	height: 150px;
+	background:#FBFCFC ;
+	text-align: center;
+}
+.text{
+	padding: 50px 50px;
+}
+
+ 
